@@ -1,0 +1,8 @@
+{
+  "name": "KallonaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3e88b5d9"
+}
